@@ -1,0 +1,176 @@
+.l {
+  float: left;
+}
+.r {
+  float: right;
+}
+.verh {
+  display: inline;
+}
+.verh .log {
+  width: 150px;
+  color: black;
+  margin-left: 120px;
+}
+.verh .log h1 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: -2px;
+  font-size: 40px;
+}
+.verh nav {
+  margin-top: 5px;
+  font-size: 20px;
+}
+.verh nav a {
+  margin: 20px;
+  text-decoration: none;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.verh .a1:hover {
+  font-weight: bold;
+}
+.verh .zero {
+  width: 50px;
+  height: 50px;
+  border: black solid 1px;
+  background-color: black;
+  border-radius: 50%;
+  color: white;
+  padding: 15px 20px;
+  font-size: 18px;
+}
+.vhod {
+  background-color: black;
+  border-radius: 40px;
+  color: white ;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 20px 40px;
+  margin-top: 45px;
+}
+.cc {
+  display: flex;
+  box-sizing: content-box;
+  background-color: #fbe1dd;
+  width: 1450px;
+  height: 650px;
+  border-radius: 50px;
+  margin: auto;
+}
+.cc .text {
+  margin-left: 120px;
+  margin-top: 110px;
+  width: 400px;
+}
+.cc .text .p1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  width: 100px;
+}
+.cc .text .p2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  width: 300px;
+  margin-top: -50px;
+}
+.cc .text a {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+.bpm {
+  margin-top: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bpm p {
+  font-size: 30px;
+  font-weight: bold;
+  margin: auto;
+  margin-top: 20px;
+  margin-left: 120px;
+}
+.bpm .img {
+  display: flex;
+}
+.bpm .img .form {
+  background-image: url(pics/search2.png);
+  background-color: #f1f1f1;
+  border: 1px solid #f1f1f1;
+  background-position: 25px 20px;
+  padding-left: 40px;
+  width: 500px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  font-size: 18px;
+  background-repeat: no-repeat;
+  padding: 20px 20px 20px 60px;
+}
+.bpm .img select {
+  background-color: black;
+  border-radius: 40px;
+  color: white ;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  margin: 4px 2px;
+  margin-left: 250px;
+  margin-right: 120px;
+  padding: 10px 20px;
+}
+.bpm .img img {
+  width: 150px;
+  height: 50px;
+  border-radius: 30px;
+}
+.list .flt {
+  margin-top: 120px;
+  margin-left: -200px;
+}
+.list .ivi {
+  display: flex;
+  margin: 120px;
+  margin-top: -300px;
+}
+.list .ivi .trtle {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px;
+}
+.list .ivi .trtle img {
+  width: 300px;
+  height: 150px;
+  border-radius: 30px;
+}
+.chrnob {
+  margin-left: 100px;
+  width: 20px;
+  height: 20px;
+}
+.chrnob:checked {
+  background-color: black;
+}
+.chrnob2 {
+  margin-left: 168px;
+  width: 20px;
+  height: 20px;
+}
+.chrnob2:checked {
+  background-color: black;
+}
+.chrnob3 {
+  margin-left: 47px;
+  width: 20px;
+  height: 20px;
+}
+.chrnob3:checked {
+  background-color: black;
+}
